@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Davidlin / Site Title"
+title                    : "Davidlin"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Davidlin"
   avatar           : https://s2.ax1x.com/2019/08/14/mk03tS.jpg
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "NLP、Deep Leaning、Travel&Bicycle"
   location         : "ShenZhen,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
