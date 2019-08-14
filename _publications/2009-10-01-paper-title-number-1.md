@@ -2,7 +2,7 @@
 title: "Life detection strategy based on infrared vision and ultra-wideband radar data fusion"
 collection: publications
 permalink: /publication/2019-02-28-paper-title-number-1
-excerpt: 'This paper is about life detection method and mutimodal data fusion with deep neural network by lstm+cnn.'
+excerpt: 'This paper is about life detection method and mutimodal data fusion with deep neural network by lstm+cnn.</br> <a href="https://imgchr.com/i/ZtoV2j"><img src="https://s2.ax1x.com/2019/07/03/ZtoV2j.md.png" alt="ZtoV2j.png" border="0" /></a>'
 date: 2019-02-28
 venue: 'February 28'
 paperurl: 'http://univeryinli.github.io/homepages/files/paper1.pdf'
